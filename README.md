@@ -6,7 +6,8 @@ My first repository
 *In fulfilment of App-Development Task Performance for Module 7*
 
 | ----------- | ----------- | ----------- | ----------- |
-     | **LUCIFER** | *A Fox and Netflix Series* |
+
+|| **LUCIFER** | *A Fox and Netflix Series* ||
 
 | Tom Ellis as Lucifer Morningstar: Lord of Hell, 
 Lucifer, after becoming bored with his life, abandoning 
